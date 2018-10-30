@@ -20,7 +20,8 @@ User types in fighter-stats
 Show list of weights
 
 1.	Lightweight – fighter(khabib)- stats  
-2.	Heavyweight- fighter(cormier-stats
+2.	Heavyweight- fighter(cormier)-stats
+	
 Which weight would you like to learn more about?
 1
 

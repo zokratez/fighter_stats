@@ -1,5 +1,6 @@
-require "fighter_stats/version"
+require_relative "./fighter_stats/version"
+require_relative './fighter_stats/cli'
 
-module FighterStats
-  # Your code goes here...
-end
+
+
+
