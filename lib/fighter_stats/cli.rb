@@ -18,7 +18,7 @@ class FighterStats::CLI
   end
   
   def menu
-    puts "Enter the number for the weight of the fighter you want the stats for or type exit to enter:"
+    puts "Enter the number for the weight of the fighter you want to know about or type list for weight or type exit:"
     input = nil
     while input != "exit"
       input = gets.strip.downcase
@@ -27,6 +27,10 @@ class FighterStats::CLI
         puts "More info on weight 1..."
       when "2"
         puts "More info on weight 2..."
+      when "list"
+        list_weights
+      else
+        puts "Not accurate, type list or exit if done."
       end
     end
   end
