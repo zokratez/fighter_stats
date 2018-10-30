@@ -1,4 +1,7 @@
-HELLO WORLD
+ 
+UFC FIGHTERS STATS
+
+A command line interface that scrapes ufc fighters to view their personal stats by weight division.
 
 # FighterStats
 
