@@ -24,7 +24,13 @@ Show list of weights
 	
 Which weight would you like to learn more about?
 1
-
+What is fighter
+A fighter has a name
+A fighter has a record 
+a fighter has a height
+a fighter has a weight
+a fighter has URL
+ 
 
 
 

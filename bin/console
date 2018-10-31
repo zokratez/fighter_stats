@@ -11,4 +11,4 @@ require "fighter_stats"
 # Pry.start
 
 require "irb"
-IRB.start(__FILE__)
+IRB.start

@@ -15,10 +15,11 @@ class FighterStats::CLI
     1. Lightweight - fighter(khabib) - stats  
     2. Heavyweight - fighter(cormier) - stats
     DOC
+    @fighter = FighterStats::Fighter.today
   end
   
   def menu
-    puts "Enter the number for the weight of the fighter you want to know about or type list for weight or type exit:"
+    puts "Enter the number for the weight of the fighter you want to know about or type list to see weight option again or type exit:"
     input = nil
     while input != "exit"
       input = gets.strip.downcase
